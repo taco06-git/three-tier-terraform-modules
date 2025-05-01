@@ -1,5 +1,4 @@
-# three-tier-arch-aws-terraform
-Provision three tier architecture on AWS using Terraform
+
 
 # LAMP SERVER 
 https://docs.aws.amazon.com/linux/al2/ug/ec2-lamp-amazon-linux-2.html
@@ -9,3 +8,6 @@ https://www.youtube.com/watch?v=sCBTeMd0Jj4
 
 # 3 TIER TERRAFORM MODULES 
 https://www.youtube.com/watch?v=Hl81P5CrBSk
+
+# three-tier-arch-aws-terraform
+Provision three tier architecture on AWS using Terraform
